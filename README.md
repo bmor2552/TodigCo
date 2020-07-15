@@ -2,7 +2,7 @@
 
 ***Where we always find the Gold***
 
-![gold blocks]()
+![gold blocks](https://github.com/bmor2552/TodigCo/blob/master/thumbnail_large.jpg)
 
 **Goal:** The goal of this repository was to create a space where I am able to practice python and machine learning along with exercisng my data science skills! I have created a  fictional company to present my findigs of course. Feel free to reach out if you have any questions, I will link my contact info at the end of the README
 
