@@ -10,9 +10,17 @@
 
 
 # Repository Guide
+Todig Co Notebook: https://github.com/bmor2552/TodigCo/blob/master/Machine_Learning_Practice_July2020.ipynb
+
+Python Practice Notebook: https://github.com/bmor2552/TodigCo/blob/master/Python_Practice.ipynb
 
 # Resources
+Freecodecamp: https://www.freecodecamp.org/
+
+Georgia Tech Course: https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos
 
 # Presentation
 
 # Contact Information
+LinkedIn: https://www.linkedin.com/in/boi-n-moriba-8510351a3/
+
