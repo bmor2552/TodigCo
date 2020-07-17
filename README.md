@@ -8,6 +8,8 @@
 
 **Who is Todig Co:** Todig Co. is a hedge fund that uses real world data and machine learning to find the BEST trades for our clients. With our team of engineers and data scientist we have created new ways to automate market analysis. This in retturn has allowed us to hire a robust team of investors, ready to dig for gold! 
 
+#The Process
+
 
 # Repository Guide
 Todig Co Notebook: https://github.com/bmor2552/TodigCo/blob/master/Machine_Learning_Practice_July2020.ipynb
