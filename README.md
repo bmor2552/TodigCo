@@ -13,6 +13,10 @@ As stated in the goal, I will be continuing my data science bootcamp experience 
 
 The way I will be going about doing this is looking at three companies I want to take a closer look at. I am looking at companies who are making moves when in the VR XR world. 
 
+# The Companies
+1. Infineon Technologies AG (IFNNY) ---> NASDAQ
+2. QUALCOMM Incorporated (QCOM) ---> NASDAQ
+3. Intel Corporation (INTC) ---> OTCM
 
 # Repository Guide
 Todig Co Notebook: https://github.com/bmor2552/TodigCo/blob/master/Machine_Learning_Practice_July2020.ipynb
