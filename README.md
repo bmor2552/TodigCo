@@ -18,6 +18,8 @@ The way I will be going about doing this is looking at three companies I want to
 2. QUALCOMM Incorporated (QCOM) ---> NASDAQ
 3. Intel Corporation (INTC) ---> OTCM
 
+# The Findings
+
 # Repository Guide
 Todig Co Notebook: https://github.com/bmor2552/TodigCo/blob/master/Machine_Learning_Practice_July2020.ipynb
 
